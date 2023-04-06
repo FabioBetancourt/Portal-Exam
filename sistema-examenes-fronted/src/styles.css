@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-image: url('assets/imagenes/fondo1.png'); /* Reemplaza con la ruta relativa a tu imagen */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Esto hace que la imagen permanezca fija mientras se desplaza */
+  height: 100%;
+}
+
+.text-center{
+  text-align: center;
+}
+
